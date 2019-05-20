@@ -1,0 +1,3 @@
+# Ttest_indResult(statistic ; pvalue)
+-1.011019973499046785e+02
+0.000000000000000000e+00
